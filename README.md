@@ -1,7 +1,7 @@
 # GEOinsightLab
 Code Repository of the PhD Thesis
 
-This repository contains the notebooks developed as part of the **GEOInsightLab** project, which forms an integral part of the PhD thesis entitled *"Contributions of Data Science to a (New) Approach to Space"*, by Roberto Miguel de Oliveira Machado. This research was conducted under the **PhD Program in Geography and Territorial Planning** at **NOVA University of Lisbon**, with a specialization in **Remote Sensing and Geographic Information Systems**.
+This repository contains the notebooks developed as part of the **GEOInsightLab** project, which forms an integral part of the PhD thesis entitled *"Contributions of Data Science to a (New) Approach to Space"*, by Roberto Miguel de Oliveira Machado. This research was conducted under the **PhD Program in Geography and Territorial Planning** at **Universidade Nova de Lisboa**, with a specialization in **Remote Sensing and Geographic Information Systems**.
 
 All notebooks follow a **sequential process**, aligned with the methodological and technological framework described in Chapter III of the thesis.
 
