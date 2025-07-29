@@ -1,13 +1,14 @@
 # GEOinsightLab
-Code Repository of the PhD Thesis
+# PhD Thesis Code Repository
 
-This repository contains the notebooks developed as part of the **GEOInsightLab** project, which forms an integral part of the PhD thesis entitled *"Contributions of Data Science to a (New) Approach to Space"*, by Roberto Miguel de Oliveira Machado. This research was conducted under the **PhD Program in Geography and Territorial Planning** at **Universidade Nova de Lisboa**, with a specialization in **Remote Sensing and Geographic Information Systems**.
+This repository contains the code developed as part of the **GEOInsightLab** project, which forms an integral part of the PhD thesis entitled *"Data Science in Spatial Literacy"*, by Roberto Miguel de Oliveira Machado. 
 
-All notebooks follow a **sequential process**, aligned with the methodological and technological framework described in Chapter III of the thesis.
+This research was conducted under the **PhD Program in Geography and Territorial Planning** at **Universidade Nova de Lisboa**, with a specialization in **Remote Sensing and Geographic Information Systems**.
 
+All code follows a sequential process, aligned with the methodological and technological framework described in Chapter III of the thesis.
 ---
 
-## 📁 Notebooks Structure
+## 📁 Structure
 
 ### `Initial_setup.ipynb`
 > Sets up the analysis environment: libraries, paths, utility functions, and initial configurations.
